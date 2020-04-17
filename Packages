@@ -1,0 +1,18 @@
+Package: com.mycydia.ironant
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mycydia
+Depends: firmware (>=8.0)
+Filename: ./debs/iron_ant_1.0.deb
+Size: 54263280
+MD5sum: 90d76102c6644adff1deff1d44ccd9bb
+SHA1: c0b2ab3e7f0f72c9e900e6b0d7233d7033abbecd
+SHA256: 5db372107fa4b43dc019974b67c787fc2bab37416bc632a5b484e07b64f2f424
+Section: Game
+Priority: optional
+Homepage: https://jungletree.github.io/mycydia/
+Description: This is funny ant shooting game
+Author: mycydia
+Icon: file:///Applications/ironant.app/Icon.png
+Name: Iron Ant
+

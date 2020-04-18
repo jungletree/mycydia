@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: mycydia
 Depends: firmware (>= 7.0)
-Filename: debs/iron_ant_1.0.deb
+Filename: http://www.brucegame.cn/debs/iron_ant_1.0.deb
 Size: 54263280
 MD5sum: 90d76102c6644adff1deff1d44ccd9bb
 SHA1: c0b2ab3e7f0f72c9e900e6b0d7233d7033abbecd
